@@ -1,2 +1,2 @@
 # Team-Exercise-Schloss
-Story time
+Story time - Text for team story
