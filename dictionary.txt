@@ -1,0 +1,23 @@
+GERMAN			ENGLISH			Is a...
+
+Raesfeld		Raesfeld		Castle/Place
+Flughafen		Airport
+Berlin			Berlin			City
+Bratwurst		Bratwurst		Food
+Hauptstrasse		Main road
+Brot			Loaf			Bread
+Gauss	 		Gauss			Person
+Klimaanlage 		Air conditioning
+Rammstein 		Rammstein		German band
+Musik			Music
+Porsche 		Porche			Car company
+BMW			BMW			Car company
+Biergarten 		Beer Garden
+Ratskeller 		Ratskeller		Bar/Restaurant
+Dirndel 		Dirndel			German Woman's dress
+Lederhose 		Leather pants
+Audi 			Audi			Car company
+Schloss 		Lock
+Munich	 		Munich			City
+wettbewerbsfaehig	Competitive
+Mehlhase		Mehlhase
