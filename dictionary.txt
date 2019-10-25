@@ -20,4 +20,6 @@ Audi 			Audi			Car company
 Schloss 		Lock
 Munich	 		Munich			City
 wettbewerbsfaehig	Competitive
+danke			thanks
+bitte			sorry
 Mehlhase		Mehlhase
